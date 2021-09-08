@@ -1,2 +1,2 @@
-**Ruben Isaac Ramirez Verastdegui**
+**Ruben Isaac Ramirez Verastegui**
 *20100252*
