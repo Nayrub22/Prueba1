@@ -12,7 +12,7 @@ public class App {
             System.out.printf("No es valido el numero 0");
         }else
         {
-            System.out.printf("0 ");
+            System.out.printf("0 \n");
             if (n >= 2) 
             {
               long anterior = 0;
@@ -24,7 +24,7 @@ public class App {
                   long copiaActual = actual;
                   actual = actual + anterior;
                   anterior = copiaActual;
-                  System.out.printf("%d", actual );
+                  System.out.printf("%d \n", actual );
                   i++;
               } while(i <=n);
             } 
