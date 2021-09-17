@@ -21,7 +21,16 @@ public class App {
               long anterior = 0;
               long actual = 1; 
               int i = 2; 
-
+              System.out.printf("%d \n" , actual);
+              while( i <= n)
+              {
+                long copiaActual = actual;
+                actual = actual + anterior;
+                anterior = copiaActual;
+                System.out.printf("%d \n", actual );
+                i++;
+              }
+              /*
               do
               {
                   long copiaActual = actual;
@@ -29,7 +38,7 @@ public class App {
                   anterior = copiaActual;
                   System.out.printf("%d \n", actual );
                   i++;
-              } while(i <=n);
+              } while(i <=n);*/
             } 
         }
     }
