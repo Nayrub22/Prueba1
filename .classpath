@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Proyectos_Java/Serie_Fibonacci/src"/>
+	<classpathentry kind="output" path="Proyectos_Java/Serie_Fibonacci/bin"/>
+</classpath>
