@@ -41,5 +41,6 @@ public class App {
               } while(i <=n);*/
             } 
         }
+        reader.close();
     }
 }
