@@ -1,7 +1,7 @@
 # Eventos e Interfaces De Escucha Java
 
-| **Interface** |** Descripcion **| **Metodos** |
-| ------------- | ------------- |
+| **Interface** | **Descripcion** | **Metodos** |
+| ------------- | ------------- |------------- |
 | ActionListener | Eventos del usuario en la interfaz (Click en botón, seleccionar elemento de lista/ opción de menú | actionPerformed(ActionEvent e)  |
 | KeyListener  | Entrada desde el teclado | keyPressed(KeyEvent e)<br> keyReleased(KeyEvent e) <br> keyTyped(KeyEvent e)|
 | FocusListener | Se genera cuando un elemento gana o pierde el foco | focusGained(FocusEvent e) <br> focusLost(FocusEvent e) |
